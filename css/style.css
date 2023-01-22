@@ -17,6 +17,7 @@ html, body {
 }
 
 .nav li {
+    color: #FFFFF0;
     display: inline;
 }
 
@@ -77,6 +78,7 @@ html, body {
 }
 
 .content-section {
+    background-color: silver;
     margin: 1em;
 
 }
@@ -113,7 +115,7 @@ html, body {
 }
 
 .main-footer {
-    background-color: red;
+    background-color: #A52A2A;
     color: white;
     position: fixed;
     bottom: 0;
