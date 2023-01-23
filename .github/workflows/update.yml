@@ -1,9 +1,9 @@
 name: update workflow
 on:
   push:
-    branches: [master]
+
 jobs:
-  job_one:
+  update:
     name: Update
     runs-on: ubuntu-latest
     steps:

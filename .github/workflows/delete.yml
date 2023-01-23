@@ -2,7 +2,7 @@ name: delete workflow
 on:
   workflow_dispatch:
 jobs:
-  job_one:
+  delete:
     name: Delete
     runs-on: ubuntu-latest
     steps:
