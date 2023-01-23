@@ -6,3 +6,6 @@
 
 ## Custom changes
     Changed the background color of the content section. Also changed the background color of the main footer and the text color as well.
+    
+## Terpconnect website link
+    https://terpconnect.umd.edu/~fchariwa/cmsc389T-web-template-1/
