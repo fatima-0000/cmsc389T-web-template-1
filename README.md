@@ -1,4 +1,5 @@
 # cmsc388T-web-template
+### author: Fatima Chariwala
 
 ## Github pages site link
     https://fatima-0000.github.io/cmsc389T-web-template-1/
